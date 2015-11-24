@@ -12,6 +12,7 @@ Do this shit work with:
 
 But, you must have docker run in your machine and docker-compose.
 
+```
 MySQL:
 
 user: root
@@ -23,3 +24,4 @@ Wordpress:
 user: admin
 password: wordpress
 email: test@pitakill.net
+```
